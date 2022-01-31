@@ -4,8 +4,6 @@
 
 This website is the outcome of hundreds of hours of investigating viable approaches to treating the infection and symptoms associated with SARS-CoV-2.
 
-Even by the middle of 2019, it began to be apparent that there were a number of remarkably evidence-based and incredibly efficacious remedies for Covid-19 that were communicated through independent channels- including local health administrations, social media platforms, word of mouth by beneficiaries, ordinary physicians who truly cared deeply for their patients' welfare to challenge the normative rhetoric and seek better solutions.
-
 However, it seemed also evident that most of these independent entities had not been well connected enough with each other's platforms and communities to be aware of  all the treatment modalities that were available out there, even though they were spending what time they could to improve their therapeutic toolkits. To make matters worse, it also seems evident that there is a hugely empowered and concerted movement to grant preferential notice and space to certain kinds of antidotes to the pandemic over others. In a nutshell, these preferences may be observed to be as follows:
 
 ### 1. Vaccines and masks over any other remedy or preemption,
